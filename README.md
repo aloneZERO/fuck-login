@@ -27,6 +27,8 @@
 16. dlut 大连理工大学校园网相关  by [guoruibiao](https://github.com/guoruibiao)  [博客](http://blog.csdn.net/marksinoberg)
 17. attop.com by [justZERO](https://github.com/aloneZERO)
 18. github.com by [wuxiaoxiaoshen](https://github.com/wuxiaoxiaoshen)
+19. [B站](https://www.bilibili.com)
+20. [豆瓣](https://www.douban.com)
 
 ## Todolist
 1. **重构代码，增加可扩展性**
@@ -43,3 +45,18 @@
 2. 增加新的网站登录
 3. 改进错误, Python版本的兼容
 4. 基于模拟登录增加新的功能。
+
+## 技术交流
+
+ - 欢迎加入 QQ 群 465363184 交流学习, 或者发邮件到 xchaoinfo@qq.com 进行交流
+ - 视频教程已经上传到腾讯视频和优酷视频，可以通过搜索 `Python 模拟登录那些事儿` 找到
+ - 视频教程同时也在微信公众号更新了，[点击扫一扫关注我的微信公众号：xchaoinfo](http://7xti71.com1.z0.glb.clouddn.com/xchaoinfo.jpg)
+
+## something to add
+
+1. 这个项目开始于 2016.2，有些网站改了规则，可能模拟登录不能使用了，授人以鱼不如授人以渔，后面会维护几个典型的模拟登录，并且会给出每个模拟登录的教程，初步考虑是视频，这样对于刚刚接触爬虫，对于抓包分析技术一脸懵逼的初学者来说比较友好，后面可能会更新图文的教程。教程目前制作中，我新注册了一个微信公众号 xchaoinfo, 教程的更新会在微信公众号提醒，欢迎关注。
+2. 项目写了一段时间后，发现代码的风格和程序的易用性，可扩展性，代码的可读性，都存在一定的问题，所以接下来最重要的是重构代码，让大家可以更容易的做出一些自己的小功能。
+3. 如果你觉得某个网站的登录很有代表性，欢迎在 issue 中提出，
+如果网站的登录很有意思，我会在后面的更新中加入。
+4. 网站的登录机制有可能经常的变动，所以当现在的模拟的登录的规则不能使用的时候，请在 issue 中提出
+如果时间允许的话，我会更新。
