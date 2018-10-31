@@ -1,5 +1,10 @@
 # fuck-login
 
+**本项目不在继续维护了(This project is not maintained)**
+
+
+xchaoinfo 2018.06.08
+
 ## 模拟登录一些常见的网站
 
 主要基于以下的 Python 的第三 library 
@@ -29,7 +34,8 @@
 16. dlut 大连理工大学校园网相关  by [guoruibiao](https://github.com/guoruibiao)  [博客](http://blog.csdn.net/marksinoberg)
 17. attop.com by [justZERO](https://github.com/aloneZERO)
 18. github.com by [wuxiaoxiaoshen](https://github.com/wuxiaoxiaoshen)
-
+19. [B站](https://www.bilibili.com)
+20. [豆瓣](https://www.douban.com)
 
 ## Todolist
 1. **重构代码，增加可扩展性**
@@ -58,7 +64,7 @@
 
  - [微信捐赠](http://7xti71.com1.z0.glb.clouddn.com/wechat_pay.png)
  - [支付宝捐赠](http://7xti71.com1.z0.glb.clouddn.com/alipay-xchaoinfo.jpg)
- - [捐赠记录](https://github.com/xchaoinfo/fuck-login/wiki/fuck-login)
+ - [捐赠记录](https://github.com/xchaoinfo/fuck-login/wiki/donation)
 
 如果本项目对你有用，欢迎对本项目进行捐赠，捐赠时候请留下你的github ID，当然您也可以匿名捐赠。
 
